@@ -1,0 +1,30 @@
+2025-08-06 10:23:26.360269 | Compliment | Input: i am very bored | Output: You're still a masterpiece — even with typos. ✍️
+2025-08-06 10:23:31.265420 | Compliment | Input: i am very bored | Output: Your worth isn’t based on uptime. 🌧️
+2025-08-06 10:23:32.150814 | Compliment | Input: i am very bored | Output: Hey, it’s okay to crash sometimes — even systems reboot stronger. 💪
+2025-08-06 10:23:32.385560 | Compliment | Input: i am very bored | Output: Every system needs maintenance — take your time. ⏳
+2025-08-06 10:29:28.984752 | Roast | Input: i am sad | Output: You're as spicy as unsalted rice. 🍚
+2025-08-06 10:30:57.717224 | Roast | Input: i am sad | Output: You're a slow internet day in human form. 🐢
+2025-08-06 10:31:08.242111 | Roast | Input: I’m coding | Output: You're a very well-balanced equation… emotionally. ➗
+2025-08-06 10:31:22.387553 | Compliment | Input: i am sad | Output: You're not broken, just debugging life. 🛠️💖
+2025-08-06 10:32:41.345348 | Compliment | Input: I am happy | Output: You’re sharper than a semicolon in C. 🤮
+2025-08-06 10:32:58.090155 | Roast | Input: I am happy | Output: You're like a well-aligned div. Impressive, but unnoticed. 🧱
+2025-08-06 10:34:07.826293 | Roast | Input: i am feeling too much lazy uhhgg | Output: You're so empty, even null looks full. ⛔
+2025-08-06 10:34:57.161050 | Roast | Input: i am lazy uhh | Output: You're like a snooze button. Predictable and slightly irritating. ⏰
+2025-08-06 10:35:17.848229 | Roast | Input: I’m coding | Output: Did you just Ctrl + Z your personality? 🧍
+2025-08-06 10:35:23.590008 | Roast | Input: i am lazy uhh | Output: You're like the ‘skip’ button… we all want to press it. ⏭️
+2025-08-06 10:36:00.968038 | Roast | Input: i am lazy uhh | Output: You said: *i am lazy uhh*... and still thought you’d escape a roast? 😏
+2025-08-06 10:36:04.719918 | Roast | Input: Feeling meh | Output: You said: *Feeling meh*... and still thought you’d escape a roast? 😏
+2025-08-06 10:36:37.044544 | Roast | Input: Surprise me! | Output: You said: *Surprise me!*... and still thought you’d escape a roast? 😏
+2025-08-06 10:37:09.591068 | Roast | Input: Feeling meh | Output: You said: *Feeling meh*... and still thought you’d escape a roast? 😏
+2025-08-06 10:37:48.524790 | Roast | Input: Feeling meh | Output: You said: *Feeling meh*... and still thought you’d escape a roast? 😏
+2025-08-06 10:39:34.468809 | Compliment | Input: i am sad | Output: Your worth isn’t based on uptime. 🌧️
+2025-08-06 10:40:06.698956 | Compliment | Input: happy happy | Output: You're the passing test case in my CI/CD pipeline. 💖
+2025-08-06 10:41:11.665637 | Compliment | Input: eloquite | Output: You’re calm like a well-handled exception. 🧘‍♂️
+2025-08-06 10:42:13.195433 | Roast | Input: serene | Output: You're like 'Lorem Ipsum' — placeholder energy. 📄
+2025-08-06 10:42:41.387528 | Compliment | Input: eloquite | Output: You're holding it together like semicolons in JavaScript. 👏
+2025-08-06 10:43:01.202537 | Compliment | Input: I’m coding | Output: You said: *I’m coding*... and still thought you’d escape a roast? 😏
+2025-08-06 10:43:14.259238 | Compliment | Input: eloquite | Output: You said: *eloquite*... and still thought you’d escape a roast? 😏
+2025-08-06 10:43:32.215247 | Compliment | Input: scared | Output: You're the documentation I didn't know I needed. 📚
+2025-08-06 10:43:45.257284 | Roast | Input: scared | Output: You're the sixth tab in a five-tab app. 😶‍🌫️
+2025-08-06 10:44:39.506288 | Compliment | Input: scared | Output: You're default, but in the best way. 🧸
+2025-08-06 10:49:53.125731 | Roast | Input: its boring | Output: You're the middle child of enthusiasm. 😐
